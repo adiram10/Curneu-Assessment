@@ -1,4 +1,3 @@
 # Curneu-Assessment
 
-1.Fruits Task
-2.Diabetes Task
+This file contains 2 .ipynb files, 2 .txt files and 1 .rar file.
